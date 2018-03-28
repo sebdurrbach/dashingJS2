@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/sebdurrbach/dashingJS2/badge.svg?branch=master)](https://coveralls.io/github/sebdurrbach/dashingJS2?branch=master)
+[![Build Status](https://travis-ci.org/sebdurrbach/dashingJS2.svg?branch=master)](https://travis-ci.org/sebdurrbach/dashingJS2)
+
 # DashingJS2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
